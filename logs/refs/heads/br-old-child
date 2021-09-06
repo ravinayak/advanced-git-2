@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 8fdb8b1e726afd32ee7d1c1b2170629b013583f4 Ravi Kumar Nayak <ravinayak19@gmail.com> 1630801725 +0530	branch: Created from 8fdb8b1
+8fdb8b1e726afd32ee7d1c1b2170629b013583f4 8fdb8b1e726afd32ee7d1c1b2170629b013583f4 Ravi Kumar Nayak <ravinayak19@gmail.com> 1630801768 +0530	Branch: renamed refs/heads/br-child-1 to refs/heads/br-old-child
+8fdb8b1e726afd32ee7d1c1b2170629b013583f4 1188ba1c59392ae67c9c5e768f6a192710ddae06 Ravi Kumar Nayak <ravinayak19@gmail.com> 1630801847 +0530	commit: 6th br-new-child
+1188ba1c59392ae67c9c5e768f6a192710ddae06 8fdb8b1e726afd32ee7d1c1b2170629b013583f4 Ravi Kumar Nayak <ravinayak19@gmail.com> 1630801872 +0530	reset: moving to 8fdb8b1
+8fdb8b1e726afd32ee7d1c1b2170629b013583f4 40fff33cb330481a01919f3fc60a837e3bc29963 Ravi Kumar Nayak <ravinayak19@gmail.com> 1630801900 +0530	commit: 6th br-old-child
+40fff33cb330481a01919f3fc60a837e3bc29963 452bacde9db4c61ee6183cef27517d34f5617866 Ravi Kumar Nayak <ravinayak19@gmail.com> 1630801918 +0530	commit: 7th br-old-child
+452bacde9db4c61ee6183cef27517d34f5617866 4883ed23e8aec71a27b6627323afb2ce94a19420 Ravi Kumar Nayak <ravinayak19@gmail.com> 1630801936 +0530	commit: 8th br-old-child
+4883ed23e8aec71a27b6627323afb2ce94a19420 2a57dd7667123c8cacd4364cb2fb6cdb171cbde3 Ravi Kumar Nayak <ravinayak19@gmail.com> 1630802049 +0530	merge br-new-child: Merge made by the 'recursive' strategy.
