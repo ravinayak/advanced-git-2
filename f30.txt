@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *Changed in target - conflict* f30 - source - 15
+=======
+*changed in source* f30 - source - 15
+>>>>>>> d4fda6b (16 - source - f1f2f23f25f29f30)

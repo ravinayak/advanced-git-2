@@ -1,1 +1,2 @@
 *changed in target - to cause conflict * f29 - source - 13
+*changed in source - conflict* f29 - source - 13
