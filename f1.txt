@@ -1,1 +1,1 @@
-File - f1 - changed in target to cause conflict 
+*changed in source* File - f1
