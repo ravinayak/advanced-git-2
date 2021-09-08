@@ -6,7 +6,9 @@
 # 				         files are created with "branch-name, filename" but not added to index, or committed. They are left untracked in repository
 # 4th argument onwards should be - [ filenames without .txt extension ]
 # Files are created with contents in the format - "<filename> - <branch-name> - <number-of-commit-to-be-made>" ex: [ f11 - source - 12 ]
-# Sample Input : 12 source f11 f21 f31 f41 => f11.txt f21.txt f32.txt f41.txt will be created in the current branch [source] with each commit starting from commit no 12
+
+# Sample Input 1: 12 source true f11 f21 f31 f41 => f11.txt f21.txt f31.txt f41.txt will be created in the current branch [source] with each commit starting from commit no 12
+# Sample Input 2: 12 source false f11 f21 f31 f41 => f11.txt f21.txt f31.txt f41.txt will be created in the current branch [source] but no file will be added to staging area
 
 # To extract 1st and 2nd arguments, we shift the arguments array and collect arguments in required variables
 
