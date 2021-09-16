@@ -1,0 +1,4 @@
+f21/f31/f41/[[:digit:]][[:digit:]][[:digit:]].txt boose=true
+[[:lower:]][[:lower:]][[:lower:]]-[[:digit:]][[:digit:]][[:digit:]]-\[[[:space:]][[:space:]]\][[:space:]]?[[:space:]].txt text
+[[:lower:]][[:lower:]]-[[:digit:]][[:digit:]][[:digit:]].txt hum
+[[:lower:]][[:lower:]][[:lower:]].txt -hum
